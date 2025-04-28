@@ -3,7 +3,7 @@
 [![Built with Vite](https://img.shields.io/badge/Built%20with-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![TailwindCSS](https://img.shields.io/badge/Styled%20with-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![License](https://img.shields.io/badge/License-MIT-4E9A06?style=for-the-badge)](#license)
-[![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-EA4C89?style=for-the-badge)](#)
+
 
 ---
 
@@ -63,7 +63,6 @@ Ashmandeep Kaur, Anshuman Sengar, Harshit Bhardwaj
 ```bash
 npm install
 
-**### 3. Start the Development Server**
 ```bash
 npm run dev
 
