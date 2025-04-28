@@ -11,9 +11,6 @@
 
 **Locker Hub Web Portal** is part of the **Smart Locker System** — a secure, interactive, and intelligent solution designed for modern locker management.
 
-**Designed by:**  
-Ashmandeep Kaur, Anshuman Sengar, Harshit Bhardwaj
-
 ---
 
 ## 🚀 Features at a Glance
@@ -27,7 +24,7 @@ Ashmandeep Kaur, Anshuman Sengar, Harshit Bhardwaj
 ### 📦 Locker Management
 - **Shared** and **private** compartments.
 - Locker status displayed as **Locked** or **Unlocked**.
-- **Auto-door reset** after relocking.
+
 
 ### 🚨 Decoy Mode (Silent Alarm)
 - **Fake Unlock** triggers a silent security alert.
@@ -59,11 +56,10 @@ Ashmandeep Kaur, Anshuman Sengar, Harshit Bhardwaj
 ### 1. Prerequisites
 - [Node.js](https://nodejs.org/) installed (LTS recommended).
 
-### 2. Install dependencies
+### 2. Install dependencies and start the server
 ```bash
 npm install
 
-```bash
 npm run dev
 
 
